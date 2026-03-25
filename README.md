@@ -121,9 +121,9 @@ python python/batch_check.py
 | GET | `/v1/timestamp/quote` | Timestamp quote |
 | POST | `/v1/timestamp/verify` | Verify a proof |
 
-## Premium endpoints (21 sats per call)
+## Premium endpoints (21 sats / $0.01 per call)
 
-Pay with Lightning (L402) per-call — no key needed. Or get a monthly API key for $4.99.
+Pay with Lightning L402 or x402 USDC on Base — per-call, no key needed. Or get a monthly API key for $4.99.
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
