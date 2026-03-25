@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "satoshidata": {
-      "url": "https://smithery.ai/servers/satoshidata/wallet-intelligence"
+      "url": "https://satoshidata.ai/mcp/"
     }
   }
 }
